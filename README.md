@@ -134,39 +134,35 @@
         alt="vercel"
       />
     </p>
-        <h3 align="center">Stats</h3>
-    <div
-      style="
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-        align-items: center;
-      "
-    >
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=AmirHosein-Gharaati&show_icons=true&theme=nightowl&locale=en"
-        alt="AmirHosein-Gharaati"
-        width="400"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl" width="400"/>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosein-Gharaati&theme=nightowl"
-        alt="AmirHosein-Gharaati"
-        width="400"
-      />
-      <img
-        align="center"
-          src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
-        alt="AmirHosein-Gharaati"
-        width="400"
-      />
-      <img
-        align="center"
-          src="https://wakatime.com/share/@aly3n/28c1bd08-d655-4249-a17e-a985ff32f4d9.svg"
-        alt="AmirHosein-Gharaati"
-        width="400"
-      />
-    </div>
+    <h3 align="center">Stats</h3>
+    <table>
+      <tr align="center">
+        <td>
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=AmirHosein-Gharaati&show_icons=true&theme=nightowl&locale=en"
+            alt="AmirHosein-Gharaati"
+          />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl"/>
+        </td>
+      </tr>
+      <tr align="center">
+        <td>
+          <img
+            align="center"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosein-Gharaati&theme=nightowl"
+            alt="AmirHosein-Gharaati"
+            width="400"
+          />
+        </td>
+        <td>
+          <img
+            align="center"
+              src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
+            alt="AmirHosein-Gharaati"
+            width="400"
+          />
+        </td>
+      </tr>
+    </table>
