@@ -98,6 +98,10 @@
         alt="Bootstrap"
       />
       <img
+        src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"
+        alt="Vuetify"
+      />
+      <img
         src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
         alt="git"
       />
@@ -128,6 +132,10 @@
       <img
         src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
         alt="cpp"
+      />
+      <img
+        src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+        alt="java"
       />
       <img
         src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
