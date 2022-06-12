@@ -82,6 +82,10 @@
         alt="nextjs"
       />
       <img
+        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+        alt="angular"
+      />
+      <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt="html5"
       />
@@ -118,10 +122,6 @@
         alt="npm"
       />
       <img
-        src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
-        alt="react-router"
-      />
-      <img
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
         alt="node.js"
       />
@@ -137,6 +137,14 @@
         src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
         alt="cpp"
       />
+      <img 
+        src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
+        alt=".net"
+      />
+      <img
+        src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+        alt="c-sharp"
+      />
       <img
         src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
         alt="java"
@@ -150,6 +158,10 @@
         alt="mongodb"
       />
       <img
+        src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
+        alt="msqlserver"      
+       />
+      <img
         src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
         alt="sqlite"
       />
@@ -160,6 +172,10 @@
       <img
         src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
         alt="vercel"
+      />
+      <img 
+        src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"
+        alt="vim"
       />
     </p>
     <h3 align="center">Stats</h3>
