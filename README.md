@@ -11,7 +11,7 @@
     - 🔭 I’m currently a Bachelor Computer Engineer student at Shiraz university.</a>
     </p>
     <p>
-     - 📜<strong>My Personal Website</strong>: <a href="https://portfolio-amirhosein-gharaati.vercel.app">https://portfolio-amirhosein-gharaati.vercel.app</a>
+     - 📜<strong>My Personal Website</strong>: <a href="https://amirhosein-gharaati.github.io">https://amirhosein-gharaati.github.io</a>
     </p>
     <h3 align="center">Connect with me</h3>
     <p align="center">
