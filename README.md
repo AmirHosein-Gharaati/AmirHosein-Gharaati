@@ -188,24 +188,24 @@
         gap: 10px;
         justify-content: center;
         align-items: center;
+        width: 100%;
       "
     >
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=AmirHosein-Gharaati&show_icons=true&theme=nightowl&locale=en"
         alt="AmirHosein-Gharaati"
-        width="400"
+        width="49%"
       />
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosein-Gharaati&theme=nightowl"
         alt="AmirHosein-Gharaati"
-        width="400"
+        width="49%"
       />
       <img
         align="center"
-        style="margin: auto;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl&hide=jupyter%20notebook"
-        width="400"
+        width="49%"
       />
     </div>
