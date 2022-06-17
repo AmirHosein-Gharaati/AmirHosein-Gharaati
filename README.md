@@ -204,7 +204,7 @@
       />
       <img
         align="center"
-        justify="center"
+        style="margin: auto;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl&hide=jupyter%20notebook"
         width="400"
       />
