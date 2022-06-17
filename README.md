@@ -204,13 +204,7 @@
       />
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl"
-        width="400"
-      />
-      <img
-        align="center"
-        src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
-        alt="AmirHosein-Gharaati"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl&hide=jupyter%20notebook"
         width="400"
       />
     </div>
