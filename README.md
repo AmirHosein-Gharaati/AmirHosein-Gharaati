@@ -68,10 +68,6 @@
       <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
     </td>
@@ -79,16 +75,6 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactiveX-Dark.svg" width="48" height="48" alt="icon" />
       <br>RxJS
     </td>
-    <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="icon" />
-      <br>Python
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="icon" />
-      <br>Linux
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
         <br>C#
@@ -98,12 +84,22 @@
       <br>.NET
     </td>
     <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="icon" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
       <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="icon" />
       <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="icon" />
+      <br>Linux
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
@@ -116,6 +112,10 @@
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="48" height="48" alt="icon" />
       <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="48" height="48" alt="icon" />
+      <br>SQL Server
     </td>
     <td align="center" width="96"> 
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="48" height="48" alt="icon" />
