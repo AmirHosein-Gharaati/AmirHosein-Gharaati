@@ -79,8 +79,24 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactiveX-Dark.svg" width="48" height="48" alt="icon" />
       <br>RxJS
     </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="icon" />
+      <br>Python
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="icon" />
+      <br>Linux
+    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="icon" />
+      <br>.NET
+    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
       <br>Git
@@ -111,14 +127,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="icon" />
-      <br>.NET
-    </td>
     <td align="center" width="96"> 
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="icon" />
       <br>Azure
@@ -134,6 +142,10 @@
     <td align="center" width="96"> 
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" width="48" height="48" alt="icon" />
       <br>Vim
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" width="48" height="48" alt="icon" />
+      <br>Heroku
     </td>
   </tr>
   
