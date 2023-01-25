@@ -84,8 +84,8 @@
       <br>.NET
     </td>
     <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="icon" />
-      <br>Python
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="icon" />
+      <br>Java
     </td>
   </tr>
   <tr>
