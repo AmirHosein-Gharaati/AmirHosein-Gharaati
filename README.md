@@ -44,8 +44,8 @@
         alt="Windows"
       />
       <img
-        src="https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white"
-        alt="Windows"
+        src="https://img.shields.io/badge/Ubuntu-ff6600?style=for-the-badge&logo=Ubuntu&logoColor=white"
+        alt="Ubuntu"
       />
     </p>
     <h3>Languages and Tools</h3>
