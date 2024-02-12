@@ -22,11 +22,6 @@
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="amirhosein-gharaati"
       /></a>
-      <a href="https://t.me/AG_1380" target="_blank"
-        ><img
-          src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-          alt="AG_1380"
-      /></a>
       <a href="mailto:amirgh1380@gmail.com" target="_blank"
         ><img
           src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
