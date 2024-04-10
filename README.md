@@ -1,19 +1,12 @@
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amirhosein-gharaati">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amirhosein-gharaati" />
   
   <h1 align="center">Hi there 👋</h1>
     <h3 align="center">I'm a Software Engineer</h3>
-    <p align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-          src="https://github-profile-trophy.vercel.app/?username=AmirHosein-Gharaati&theme=algolia"
-          alt="AmirHosein-Gharaati"
-      /></a>
+    <p>
+    - 🔭 I’m currently a Bachelor Computer Engineer student at Shiraz University
     </p>
     <p>
-    - 🔭 I’m currently a Bachelor Computer Engineer student at Shiraz university.</a>
-    </p>
-    <p>
-     - 📜<strong>My Personal Website</strong>: <a href="https://amirhosein-gharaati.github.io">https://amirhosein-gharaati.github.io</a>
+    - 💻 Working as a Software Engineer at FocalPay
     </p>
     <h3>Connect with me</h3>
     <p >
