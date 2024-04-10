@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="48" height="48" alt="icon" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="icon" />
       <br>Java
     </td>
     <td align="center" width="96"> 
@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" />
+          <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="48" height="48" />
         <br>C#
     </td>
     <td align="center" width="96">
