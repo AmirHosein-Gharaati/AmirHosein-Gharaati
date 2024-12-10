@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
   <h3 align="center">I'm a Software Engineer</h3>
   <p>
-  - ✍🏻 Studying masters in Cyber Security at Shiraz University.
-  </p>
-  <p>
   - 🔭 Graduated as a bachelor student in Computer Engineering from Shiraz University
   </p>
   <p>
